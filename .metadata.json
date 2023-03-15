@@ -2,5 +2,9 @@
   {
     "package": "comFuncs",
     "oncran": true
+  },
+  {
+    "package": "genTS",
+    "oncran": true
   }
 ]

@@ -8,3 +8,8 @@
 	url = https://github.com/tucai/comfuncs
 	shallow = true
 	registered = true
+[submodule "genTS"]
+	path = genTS
+	url = https://github.com/tucai/gents
+	shallow = true
+	registered = true
