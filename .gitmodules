@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "comFuncs"]
 	path = comFuncs
 	url = https://github.com/tucai/comfuncs
-	shallow = true
-	registered = true
 [submodule "genTS"]
 	path = genTS
 	url = https://github.com/tucai/gents
-	shallow = true
-	registered = true
